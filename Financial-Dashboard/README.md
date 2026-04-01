@@ -1,13 +1,30 @@
-# Financial Performance Dashboard
+# Sales Performance & Profitability Dashboard
 
-This project analyzes revenue, profit, and business performance.
+## 🔹 Problem Statement
 
-## Features
+Built an interactive Power BI dashboard to analyze sales performance, profitability, and business trends across regions and products.
 
-* KPI metrics (Revenue, Profit, Profit %)
-* Monthly trends
-* Regional analysis
+## 🔹 Key Features
 
-## Tools
+* KPI tracking (Revenue, Profit, Margin, Orders)
+* Time-based trend analysis
+* Regional and product-level insights
+* Salesperson performance evaluation
 
-Power BI, DAX, Power Query
+## 🔹 Key Metrics
+
+* Total Revenue
+* Total Profit
+* Profit Margin %
+* Total Orders
+
+## 🔹 Tools Used
+
+Power BI, DAX, Data Modeling
+
+## 🔹 Insights
+
+* Identified high-performing regions contributing to revenue growth
+* Highlighted products with strong profitability margins
+* Enabled quick analysis of sales trends over time
+
